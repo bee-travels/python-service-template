@@ -1,1 +1,1 @@
-# python-service-template
+# Bee Travels {{.ServiceNameTitle}} Service - Python
