@@ -8,7 +8,7 @@ class Tests(unittest.TestCase):
     def tearDown(self):
         pass
 
-    def example_test(self):
+    def test_example(self):
         self.assertEqual(1, 1)
 
 
